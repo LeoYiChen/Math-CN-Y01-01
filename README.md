@@ -1,6 +1,5 @@
 # 小学一年级 (上册) 
 
-**未完待续 不定期更新 31/03/2020**
  
 ![](https://github.com/LeoYiChen/Math-CN-Y01-01/blob/master/Y01-01-01%20.jpg)
 ![](https://github.com/LeoYiChen/Math-CN-Y01-01/blob/master/Y01-01-02%20.jpg)
@@ -35,4 +34,6 @@
 ![](https://github.com/LeoYiChen/Math-CN-Y01-01/blob/master/Y01-01-31%20.jpg)
 ![](https://github.com/LeoYiChen/Math-CN-Y01-01/blob/master/Y01-01-32%20.jpg)
 ![](https://github.com/LeoYiChen/Math-CN-Y01-01/blob/master/Y01-01-33%20.jpg)
+
+# 未完待续 不定期更新 31/03/2020
  
